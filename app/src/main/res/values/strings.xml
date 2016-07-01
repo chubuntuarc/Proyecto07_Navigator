@@ -3,4 +3,6 @@
     <string name="actividad_principal">Actividad Principal</string>
     <string name="ir_actividad1">Ir a activity 01</string>
     <string name="ir_actividad2">Ir a activity 02</string>
+    <string name="txt_layout01">Layout 01</string>
+    <string name="txt_layout02">Layout 02</string>
 </resources>
