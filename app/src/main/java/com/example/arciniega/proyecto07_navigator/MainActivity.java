@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         btnLayout2 = (Button)findViewById(R.id.btnActivity2);
 
         // Crear el evento onClick del botón
-        btnLayout2.setOnClickListener(new View.OnClickListener() {
+        btnLayout1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 llamarActivity01(v);
